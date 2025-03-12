@@ -12,10 +12,10 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>  
-<div align="center">
+<div align="center" style="margin-left: 20px;">
   <strong style="font-size: 22px;">Web & AI Developer | MLOps Enthusiast | Blockchain Developer</strong>
 </div>
+
 
 
 <p align="center">
