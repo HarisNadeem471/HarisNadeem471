@@ -16,17 +16,12 @@ I'm passionate about **Machine Learning, Blockchain, and Web Development**. I lo
 - **[Transformer-Based Machine Translation](https://github.com/HarisNadeem471/transformer-machine-translation)** → A **Transformer model** for English-to-Urdu translation.  
 - **[Vision Transformer for CIFAR-10](https://github.com/HarisNadeem471/vision-transformer-cifar10)** → Implemented **ViT for image classification**.  
 - **[Signature Recognition using CNN](https://github.com/HarisNadeem471/signature-cnn-recognition)** → Built a **CNN model** to classify handwritten signatures.  
-- **[LSTM-Based Word Completion](https://github.com/HarisNadeem471/lstm-word-completion)** → Trained an **LSTM model** to predict the next word in a sentence.  
-
-### 🌐 **Web & Blockchain Development**  
-- **[Inventory Management System (Vue.js & MongoDB)](https://github.com/HarisNadeem471/inventory-management)** → A full-stack system with stock monitoring and low-stock alerts.  
-- **[Shop Page with Billing System](https://github.com/HarisNadeem471/shop-page)** → Vue.js-powered e-commerce checkout interface.  
-- **[Blockchain-Based Cafeteria Management System](https://github.com/HarisNadeem471/blockchain-cafeteria)** → Demo blockchain project evaluating cafeteria transactions.  
+- **[LSTM-Based Word Completion](https://github.com/HarisNadeem471/lstm-word-completion)** → Trained an **LSTM model** to predict the next word in a sentence.   
 
 ---
 
 ## 🛠️ Tech Stack  
-🔹 **Languages:** Python, JavaScript, TypeScript, Go  
+🔹 **Languages:** C++, Java, Python, JavaScript, Solidity  
 🔹 **Frontend:** Vue.js, React.js, HTML, CSS, Tailwind  
 🔹 **Backend:** Node.js, Express.js, Flask, FastAPI  
 🔹 **Databases:** MongoDB, MySQL, PostgreSQL  
@@ -45,8 +40,7 @@ I'm passionate about **Machine Learning, Blockchain, and Web Development**. I lo
 ---
 
 ## 🤝 Let's Connect  
-📫 **Email:** harisnadeem@example.com  
-🌐 **Portfolio:** [Coming Soon]  
+📫 **Email:** Nadeemharis4810@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/HarisNadeem471](https://linkedin.com/in/HarisNadeem471)  
 
 ---
