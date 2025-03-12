@@ -12,7 +12,7 @@
 
 ---
 
-<div align="center" style="margin-left: 20px;">
+<div align="center" style="margin-left: 50px;">
   <strong style="font-size: 22px;">Web & AI Developer | MLOps Enthusiast | Blockchain Developer</strong>
 </div>
 
