@@ -32,6 +32,9 @@ I love working on <strong>MLOps pipelines, Vue.js projects, Solidity smart contr
 - ✍ **[Signature Recognition using CNN](https://github.com/HarisNadeem471/signature-cnn-recognition)** → Built a **CNN model** to classify handwritten signatures.  
 - 🔠 **[LSTM-Based Word Completion](https://github.com/HarisNadeem471/lstm-word-completion)** → Trained an **LSTM model** to predict the next word in a sentence.  
 
+### 🌐 **Web Development**  
+- 🏪 **[Inventory Management System](https://github.com/HarisNadeem471/inventory-management-system)** → A **full-stack inventory management system** with **authentication, shopping cart, and receipt generation** using **Vue.js, Node.js, MongoDB, and XState**.  
+
 ### 🔗 **Blockchain & Smart Contracts**  
 - 📝 **[To-Do List DApp (Solidity)](https://github.com/HarisNadeem471/todo-list-solidity)** → A **To-Do List decentralized app** built with **Solidity, Truffle, and React**.  
 - 🔗 **[Blockchain-Based Cafeteria Management System](https://github.com/HarisNadeem471/blockchain-cafeteria)** → A **demo blockchain project** evaluating cafeteria transactions.  
