@@ -7,15 +7,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <strong>Welcome to my GitHub Profile!</strong>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7567C&width=435&lines=Web+%26+AI+Developer;MLOps+Enthusiast;Always+Learning+New+Tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7567C&width=435&lines=Web+%26+AI+Developer;MLOps+Enthusiast;Blockchain+Developer;Always+Learning+New+Tech!">
 </p>
 
 ---
 
-## 🚀 **About Me**  
-🖥️ **Web & AI Developer** | 🔗 **MLOps Enthusiast**  
+<h2 align="center">🚀 About Me</h2>  
+<p align="center">
+🖥️ <strong>Web & AI Developer</strong> | 🔗 <strong>MLOps Enthusiast</strong> | 🔗 <strong>Blockchain Developer</strong>  
+</p>  
 
-I'm passionate about **Machine Learning, Blockchain, and Web Development**. I love working on **MLOps pipelines, Vue.js projects, and Generative AI models**.  
+<p align="center">
+I'm passionate about <strong>Machine Learning, Blockchain, and Web Development</strong>.  
+I love working on <strong>MLOps pipelines, Vue.js projects, Solidity smart contracts, and Generative AI models</strong>.  
+</p>
 
 ---
 
@@ -26,6 +31,10 @@ I'm passionate about **Machine Learning, Blockchain, and Web Development**. I lo
 - 🖼️ **[Vision Transformer for CIFAR-10](https://github.com/HarisNadeem471/vision-transformer-cifar10)** → Implemented **ViT for image classification**.  
 - ✍ **[Signature Recognition using CNN](https://github.com/HarisNadeem471/signature-cnn-recognition)** → Built a **CNN model** to classify handwritten signatures.  
 - 🔠 **[LSTM-Based Word Completion](https://github.com/HarisNadeem471/lstm-word-completion)** → Trained an **LSTM model** to predict the next word in a sentence.  
+
+### 🔗 **Blockchain & Smart Contracts**  
+- 📝 **[To-Do List DApp (Solidity)](https://github.com/HarisNadeem471/todo-list-solidity)** → A **To-Do List decentralized app** built with **Solidity, Truffle, and React**.  
+- 🔗 **[Blockchain-Based Cafeteria Management System](https://github.com/HarisNadeem471/blockchain-cafeteria)** → A **demo blockchain project** evaluating cafeteria transactions.  
 
 ---
 
