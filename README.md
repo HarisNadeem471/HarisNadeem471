@@ -14,8 +14,8 @@
 
 ---
 
-<h2 align="centre">🚀 About Me</h2>  
-<p align="centre">
+<h2 align="center">🚀 About Me</h2>  
+<p align="center">
 🖥️ <strong>Web & AI Developer</strong> | 🔗 <strong>MLOps Enthusiast</strong> | 🔗 <strong>Blockchain Developer</strong>  
 </p>  
 
