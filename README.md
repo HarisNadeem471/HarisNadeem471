@@ -3,44 +3,82 @@
   <img src="https://komarev.com/ghpvc/?username=HarisNadeem471&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-## 🚀 About Me  
-🖥️ **Web & AI Developer** | 🔗 **MLOps Enthusiast**  
-
-I'm passionate about **Machine Learning, Blockchain, and Web Development**. I love working on **MLOps pipelines, Vue.js projects, and Generative AI models**.
-
----
-
-## 🔥 Projects & Achievements  
-
-### 📌 **Machine Learning & MLOps**  
-- **[Transformer-Based Machine Translation](https://github.com/HarisNadeem471/transformer-machine-translation)** → A **Transformer model** for English-to-Urdu translation.  
-- **[Vision Transformer for CIFAR-10](https://github.com/HarisNadeem471/vision-transformer-cifar10)** → Implemented **ViT for image classification**.  
-- **[Signature Recognition using CNN](https://github.com/HarisNadeem471/signature-cnn-recognition)** → Built a **CNN model** to classify handwritten signatures.  
-- **[LSTM-Based Word Completion](https://github.com/HarisNadeem471/lstm-word-completion)** → Trained an **LSTM model** to predict the next word in a sentence.   
-
----
-
-## 🛠️ Tech Stack  
-🔹 **Languages:** C++, Java, Python, JavaScript, Solidity  
-🔹 **Frontend:** Vue.js, React.js, HTML, CSS, Tailwind  
-🔹 **Backend:** Node.js, Express.js, Flask, FastAPI  
-🔹 **Databases:** MongoDB, MySQL, PostgreSQL  
-🔹 **DevOps & MLOps:** Docker, Kubernetes, GitHub Actions, Vercel, AWS  
-🔹 **AI & ML:** TensorFlow, PyTorch, OpenCV, Hugging Face  
-
----
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarisNadeem471&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <strong>Welcome to my GitHub Profile!</strong>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisNadeem471&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7567C&width=435&lines=Web+%26+AI+Developer;MLOps+Enthusiast;Always+Learning+New+Tech!">
 </p>
 
 ---
 
-## 🤝 Let's Connect  
-📫 **Email:** Nadeemharis4810@gmail.com  
+## 🚀 **About Me**  
+🖥️ **Web & AI Developer** | 🔗 **MLOps Enthusiast**  
+
+I'm passionate about **Machine Learning, Blockchain, and Web Development**. I love working on **MLOps pipelines, Vue.js projects, and Generative AI models**.  
+
+---
+
+## 🔥 **Projects & Achievements**  
+
+### 📌 **Machine Learning & MLOps**  
+- 📝 **[Transformer-Based Machine Translation](https://github.com/HarisNadeem471/transformer-machine-translation)** → A **Transformer model** for English-to-Urdu translation.  
+- 🖼️ **[Vision Transformer for CIFAR-10](https://github.com/HarisNadeem471/vision-transformer-cifar10)** → Implemented **ViT for image classification**.  
+- ✍ **[Signature Recognition using CNN](https://github.com/HarisNadeem471/signature-cnn-recognition)** → Built a **CNN model** to classify handwritten signatures.  
+- 🔠 **[LSTM-Based Word Completion](https://github.com/HarisNadeem471/lstm-word-completion)** → Trained an **LSTM model** to predict the next word in a sentence.  
+
+---
+
+## 🛠️ **Tech Stack**  
+<p align="center">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+</p>
+
+### 🔹 **Frontend**  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🔹 **Backend & Databases**  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🔹 **DevOps & MLOps**  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarisNadeem471&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarisNadeem471&theme=tokyonight" alt="GitHub Streak Stats" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=HarisNadeem471&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🤝 **Let's Connect**  
+📫 **Email:** [Nadeemharis4810@gmail.com](mailto:Nadeemharis4810@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/HarisNadeem471](https://linkedin.com/in/HarisNadeem471)  
 
 ---
