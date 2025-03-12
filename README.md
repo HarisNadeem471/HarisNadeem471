@@ -13,9 +13,10 @@
 ---
 
 <h2 align="center">🚀 About Me</h2>  
-<p align="center">
-🖥️ <strong>Web & AI Developer</strong> | 🔗 <strong>MLOps Enthusiast</strong> | 🔗 <strong>Blockchain Developer</strong>  
-</p>  
+<div align="center">
+  <strong style="font-size: 22px;">Web & AI Developer | MLOps Enthusiast | Blockchain Developer</strong>
+</div>
+
 
 <p align="center">
 I'm passionate about <strong>Machine Learning, Blockchain, and Web Development</strong>.  
