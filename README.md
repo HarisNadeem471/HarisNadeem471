@@ -7,9 +7,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <strong>Welcome to my GitHub Profile!</strong>
   <br>
-  <div align="center" style="display: flex; justify-content: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7567C&width=435&lines=Web+%26+AI+Developer;MLOps+Enthusiast;Blockchain+Developer;Always+Learning+New+Tech!">
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=200&color=F7567C&center=true&vCenter=true&width=500&height=50&lines=Web+%26+AI+Developer;MLOps+Enthusiast;Blockchain+Developer;Always+Learning+New+Tech!">
 </div>
+
 </p>
 
 ---
