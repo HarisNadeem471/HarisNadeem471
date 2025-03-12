@@ -7,13 +7,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <strong>Welcome to my GitHub Profile!</strong>
   <br>
+  <div align="center" style="display: flex; justify-content: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7567C&width=435&lines=Web+%26+AI+Developer;MLOps+Enthusiast;Blockchain+Developer;Always+Learning+New+Tech!">
+</div>
 </p>
 
 ---
 
-<h2 align="left">🚀 About Me</h2>  
-<p align="left">
+<h2 align="centre">🚀 About Me</h2>  
+<p align="centre">
 🖥️ <strong>Web & AI Developer</strong> | 🔗 <strong>MLOps Enthusiast</strong> | 🔗 <strong>Blockchain Developer</strong>  
 </p>  
 
