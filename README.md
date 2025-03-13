@@ -40,12 +40,14 @@ I love working on <strong>MLOps pipelines, Vue.js projects, Solidity smart contr
 
 ### 🔗 **Blockchain & Smart Contracts**  
 - 📝 **[To-Do List DApp (Solidity)](https://github.com/HarisNadeem471/todo-list-solidity)** → A **To-Do List decentralized app** built with **Solidity, Truffle, and React**. 
+
 ---
 
 ## 🛠️ **Tech Stack**  
+### 🔹 **Programming Languages**  
 <p align="center">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
