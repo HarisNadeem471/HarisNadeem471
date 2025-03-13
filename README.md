@@ -39,9 +39,7 @@ I love working on <strong>MLOps pipelines, Vue.js projects, Solidity smart contr
 - 🏪 **[Inventory Management System](https://github.com/HarisNadeem471/inventory-management-system)** → A **full-stack inventory management system** with **authentication, shopping cart, and receipt generation** using **Vue.js, Node.js, MongoDB, and XState**.  
 
 ### 🔗 **Blockchain & Smart Contracts**  
-- 📝 **[To-Do List DApp (Solidity)](https://github.com/HarisNadeem471/todo-list-solidity)** → A **To-Do List decentralized app** built with **Solidity, Truffle, and React**.  
---- 🔗 **[Blockchain-Based Cafeteria Management System](https://github.com/HarisNadeem471/blockchain-cafeteria)** → A **demo blockchain project** evaluating cafeteria transactions.  
-
+- 📝 **[To-Do List DApp (Solidity)](https://github.com/HarisNadeem471/todo-list-solidity)** → A **To-Do List decentralized app** built with **Solidity, Truffle, and React**. 
 ---
 
 ## 🛠️ **Tech Stack**  
