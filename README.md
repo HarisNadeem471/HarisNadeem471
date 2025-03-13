@@ -40,7 +40,7 @@ I love working on <strong>MLOps pipelines, Vue.js projects, Solidity smart contr
 
 ### 🔗 **Blockchain & Smart Contracts**  
 - 📝 **[To-Do List DApp (Solidity)](https://github.com/HarisNadeem471/todo-list-solidity)** → A **To-Do List decentralized app** built with **Solidity, Truffle, and React**.  
-- 🔗 **[Blockchain-Based Cafeteria Management System](https://github.com/HarisNadeem471/blockchain-cafeteria)** → A **demo blockchain project** evaluating cafeteria transactions.  
+--- 🔗 **[Blockchain-Based Cafeteria Management System](https://github.com/HarisNadeem471/blockchain-cafeteria)** → A **demo blockchain project** evaluating cafeteria transactions.  
 
 ---
 
