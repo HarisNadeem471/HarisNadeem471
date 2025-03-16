@@ -98,7 +98,7 @@ I love working on <strong>MLOps pipelines, Vue.js projects, Solidity smart contr
 
 ## 🤝 **Let's Connect**  
 📫 **Email:** [Nadeemharis4810@gmail.com](mailto:Nadeemharis4810@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/HarisNadeem471](https://linkedin.com/in/HarisNadeem471)  
+💼 **LinkedIn:** [linkedin.com/in/HarisNadeem471](www.linkedin.com/in/haris-nadeem-166728272)  
 
 ---
 
